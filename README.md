@@ -1,5 +1,5 @@
 # Cryptocurrency
-#### (I do not support and kind of gambiling and this is not a tool for it. I made this as a project and it is mainly a proof of concept. You take full responsibility for the potential consequences you may face when using this tool.)
+#### (I do not support and kind of gambling and this is not a tool for it. I made this as a project and it is a proof of concept. You take full responsibility for the potential consequences you may face when using this tool.)
 #### About
 This is a project that can mesure cryptocurrency's such as Bitcoin, Ethereum, Dogecoin and many more
 this project relys on the Bittrex api for tracking coin prices.
