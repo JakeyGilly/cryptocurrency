@@ -24,4 +24,4 @@ You can enter the cryptocurrency name when the script launches from this list.
  `zen : Horizen`\
  `dcr : Decred`\
  `pax : Paxos Standard`\
- `zrx : 0x Protocol`\
+ `zrx : 0x Protocol`
