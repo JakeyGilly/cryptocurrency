@@ -5,23 +5,23 @@ this project relys on the Bittrex api for tracking coin prices.
 
 #### Usage
 You can enter the cryptocurrency name when the script launches from this list.  
-`btc : Bitcoin<br/>
- eth : Ethereum<br/>
- bsv : Bitcoin SV<br/>
- ltc : Litecoin<br/>
- usdt : Tether<br/>
- ada : Cardano<br/>
- bch : Bitcoin Cash<br/>
- zec : ZCash<br/>
- xrp : XRP<br/>
- eos : EOS<br/>
- etc : Ethereum Classic<br/>
- tusd : True USD<br/>
- dgb : DigiByte<br/>
- trx : TRON<br/>
- hbar : Hedera Hashgraph<br/>
- xtz : Texos<br/>
- zen : Horizen<br/>
- dcr : Decred<br/>
- pax : Paxos Standard<br/>
+`btc : Bitcoin&nbsp;
+ eth : Ethereum&nbsp;
+ bsv : Bitcoin SV&nbsp;
+ ltc : Litecoin&nbsp;
+ usdt : Tether&nbsp;
+ ada : Cardano&nbsp;
+ bch : Bitcoin Cash&nbsp;
+ zec : ZCash&nbsp;
+ xrp : XRP&nbsp;
+ eos : EOS&nbsp;
+ etc : Ethereum Classic&nbsp;
+ tusd : True USD&nbsp;
+ dgb : DigiByte&nbsp;
+ trx : TRON&nbsp;
+ hbar : Hedera Hashgraph&nbsp;
+ xtz : Texos&nbsp;
+ zen : Horizen&nbsp;
+ dcr : Decred&nbsp;
+ pax : Paxos Standard&nbsp;
  zrx : 0x Protocol`
